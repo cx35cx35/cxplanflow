@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tsc *)",
+      "Bash(cmd.exe *)",
+      "Bash(powershell.exe *)"
+    ]
+  }
+}
